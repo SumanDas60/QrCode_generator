@@ -6,7 +6,7 @@ Enter any URL or text, and instantly generate a QR Code that you can **download*
 ---
 
 ## 📌 Demo Screenshot
-![QR Code Generator Screenshot]()  
+![QR Code Generator Screenshot](./screenshot.png)  
 *(Replace with your actual screenshot once you run the project.)*
 
 ---
