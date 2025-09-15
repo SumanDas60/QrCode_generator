@@ -73,10 +73,3 @@ npm install lucide-react
 
 Made with ❤️ by **Suman Das**
 Feel free to fork, improve, and submit PRs! 🚀
-
-```
-
----
-
-Do you also want me to make a **GitHub-friendly badge section** (like React, Tailwind, License badges at the top)? It’ll make the README look even more professional.
-```
